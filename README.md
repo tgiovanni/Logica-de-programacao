@@ -3,5 +3,8 @@
 
 
 respositorio criado
+<<<<<<< Updated upstream
 
 teste
+=======
+>>>>>>> Stashed changes
